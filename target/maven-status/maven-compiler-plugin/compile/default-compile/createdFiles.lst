@@ -1,0 +1,5 @@
+demo\spring\restful\service\UserService.class
+demo\spring\restful\bean\User.class
+demo\spring\restful\SpringRestDemoApplication.class
+demo\spring\restful\service\UserMapper.class
+demo\spring\restful\controller\UserServiceController.class
