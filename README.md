@@ -19,6 +19,6 @@ spring Boot / maven / mybatis / h2 db / tomcat
 
 ## test: postman
 
-- example: updating data
+- example: adding data
 
 ![demo_restful](https://user-images.githubusercontent.com/13846660/37507603-bae40368-2932-11e8-9be0-0f6cdbe01513.PNG)
